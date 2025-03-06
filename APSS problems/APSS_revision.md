@@ -538,10 +538,6 @@ class Solution:
 ```
 
 
-
-
-
-
 ===========================
 [Efficient Range Sum Queries Using Prefix Sums](C:\Users\gchamb02\Desktop\Gaurav Learnings\python\DSA_python\APSS problems\Accumulator Variables.py)
 

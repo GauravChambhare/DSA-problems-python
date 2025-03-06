@@ -1,7 +1,7 @@
 """
 Frequencies in a Limited Array
 
-https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/0
+
 You are given an array arr[] containing positive integers. The elements in the array arr[] range
 from 1 to n (where n is the size of the array), and some numbers may be repeated or absent. Your
 task is to count the frequency of all numbers in the range 1 to n and return an array of size n
